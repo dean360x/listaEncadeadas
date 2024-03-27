@@ -1,3 +1,4 @@
+//LISTA ENCADEADA DE E-mailS
 
 import java.util.Scanner;
 
